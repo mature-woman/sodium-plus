@@ -19,7 +19,7 @@ for guidance.
   * [crypto_box](authenticated-public-key-encryption.md#crypto_box)
   * [crypto_box_open](authenticated-public-key-encryption.md#crypto_box_open)
   * [crypto_box_keypair](authenticated-public-key-encryption.md#crypto_box_keypair)
-  * [crypto_box_keypair_from_secretkey_and_secretkey](authenticated-public-key-encryption.md#crypto_box_keypair_from_secretkey_and_secretkey)
+  * [crypto_box_keypair_from_secretkey_and_publickey](authenticated-public-key-encryption.md#crypto_box_keypair_from_secretkey_and_publickey)
   * [crypto_box_publickey](authenticated-public-key-encryption.md#crypto_box_publickey)
   * [crypto_box_secretkey](authenticated-public-key-encryption.md#crypto_box_secretkey)
   * [crypto_box_publickey_from_secretkey](authenticated-public-key-encryption.md#crypto_box_publickey_from_secretkey)
